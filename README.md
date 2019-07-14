@@ -8,18 +8,19 @@
     * Reusable Functions and Classes
 
 project_luther.py 
-src # all the files you want to import from
+__data__
+__src__ 
     * web_scraping.py
     * regression_metrics.py
     * linear_regression_helpers.py
     * plotting_methods.py
     * data_cleaning.py
-notebooks
+__notebooks__
     * data_scraping_prototype.py
     * data_cleaning_prototype.py
     * visualization_prototype.py
     * eda.py
-presentation
+__presentation__
     * powerpoint
     * ppt pdf
     * write-up
