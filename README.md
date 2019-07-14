@@ -7,6 +7,10 @@
 3. Create Python Modules
     * Reusable Functions and Classes
 
+Question/need:
+Description of my sample of movies and/or other data:
+Characteristics of each movie and/or other entities:
+
 `project_luther.py`
 
 __data__
