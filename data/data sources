@@ -1,0 +1,40 @@
+Data
+Storage: flat files ok, can use sql
+https://toolbox.google.com/datasetsearch
+kaggle.com
+https://archive.org/
+https://www.cia.gov/library/publications/the-world-factbook/fields/216.html#US
+https://www.google.com/search?client=firefox-b-1-d&channel=tus&q=types+of+industry
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita
+Almanacs
+OECD
+	https://stats.oecd.org/index.aspx?queryid=58290
+	https://data.oecd.org/gdp/real-gdp-forecast.htm
+https://fred.stlouisfed.org/
+Search: Industrial concentration
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_sector_composition
+world bank
+	https://data.worldbank.org/indicator/NV.IND.TOTL.ZS
+defining industries
+	https://en.wikipedia.org/wiki/Outline_of_industry
+	https://www.opensecrets.org/industries/slist.php
+	https://corporatefinanceinstitute.com/resources/knowledge/economics/industry/
+	https://simplicable.com/new/industries
+	https://www.businesswire.com/news/home/20190624005694/en/Real-Estate-Construction-Industry-Almanac-2019-Global
+    
+    
+Used:
+
+delta_gdpc
+https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG
+
+value added by industry
+https://stats.oecd.org/Index.aspx?DataSetCode=PDBI
+https://apps.bea.gov/iTable/index_industry_gdpindy.cfm
+
+for scraping countries
+https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html
+
+hdi
+https://ourworldindata.org/human-development-index
+http://hdr.undp.org/en/content/human-development-index-hdi
